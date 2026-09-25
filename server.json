@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/scraperapi",
   "title": "Scraperapi",
   "description": "ScraperAPI MCP — wraps ScraperAPI (scraperapi.com), a proxy-based web",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/scraperapi",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-scraperapi",
