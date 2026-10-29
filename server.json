@@ -2,8 +2,8 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.pipeworx-io/scraperapi",
   "title": "Scraperapi",
-  "description": "ScraperAPI MCP — wraps ScraperAPI (scraperapi.com), a proxy-based web",
-  "version": "0.1.2",
+  "description": "ScraperAPI MCP — wraps ScraperAPI (scraperapi.com), a proxy-based web scraper with structured-data…",
+  "version": "0.2.0",
   "websiteUrl": "https://pipeworx.io/packs/scraperapi",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-scraperapi",
