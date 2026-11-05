@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-scraperapi",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "ScraperAPI MCP — wraps ScraperAPI (scraperapi.com), a proxy-based web scraper with structured-data endpoints for Amazon and Google.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "scraperapi",
     "gatewaySlug": "scraperapi",
-    "sourceHash": "v1-43386fe132aa73194dc65592b71a349caf3cb963f3e858265a9f35b381976e6d",
-    "sourceCommit": "6bae4cfa7b6a73bbe014dc8820a19c80c842b21e"
+    "sourceHash": "v1-8a4bcdbcb1a5c4471ff39272c4fa61bfb61b3a27264ac86c2f6935d576a55514",
+    "sourceCommit": "8fc802aa5e23be625ce08d97178f5676c7bc93f3"
   }
 }
